@@ -91,8 +91,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
 
-###
-
 <img data-importer="snake" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/snake-output/snake.svg" alt="Snake animation" />
 
 ###
