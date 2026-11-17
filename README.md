@@ -1,10 +1,14 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=134&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
+</div>
+
+###
+
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://i.pinimg.com/236x/5a/2b/6a/5a2b6ae2bf7c768a5bc44b1a8e08be33.jpg"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <h1 data-importer="text" align="center">Hi, 👋 I'm Qody</h1>
 
@@ -59,8 +63,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/activity-graph-output/activity-graph.svg?theme=tokyo-night&hide_border=true&area=true" height="200" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="300" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/activity-graph-output/activity-graph.svg?theme=tokyo-night&hide_border=true&area=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
