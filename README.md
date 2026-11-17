@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="/design/github-header-banner.png"  />
+  <img style="100%" src="/design/github-header-banner3.png"  />
 </div>
 
 ###
