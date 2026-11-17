@@ -5,7 +5,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://i.pinimg.com/236x/5a/2b/6a/5a2b6ae2bf7c768a5bc44b1a8e08be33.jpg"  />
+  <img data-importer="image" height="150" src="/design/vanitas.jpeg"  />
 </div>
 
 ###
@@ -97,30 +97,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/breakout-contribution-graph.svg?game=breakout">
-</picture>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
 
 ###
