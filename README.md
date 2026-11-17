@@ -14,11 +14,11 @@
 
 ###
 
-<h3 data-importer="text" align="center">I'm a Web Development Engineer passionate about building modern, scalable, and user-friendly web applications.</h3>
+<h3 data-importer="text" align="center">I'm a Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.</h3>
 
 ###
 
-<h4 data-importer="text" align="left">💻 Interested in Full Stack Web Development<br><br>⚙️ Working with JavaScript, React, Next.js, and Node.js<br><br>🗄️ Experienced with PostgreSQL, MySQL, and Supabase<br><br>🚀 Always learning and exploring new technologies<br><br>Building things, solving problems, and growing every day.</h4>
+<h4 data-importer="text" align="left">💻 Interested in Full Stack Developer<br><br>⚙️ Working with JavaScript, React, Next.js, and Node.js<br><br>🗄️ Experienced with PostgreSQL, MySQL, and Supabase<br><br>🚀 Always learning and exploring new technologies<br><br>Building things, solving problems, and growing every day.</h4>
 
 ###
 
