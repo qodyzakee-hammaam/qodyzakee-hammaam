@@ -18,7 +18,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">💻 Interested in Full Stack Developer<br><br>⚙️ Working with JavaScript, React, Next.js, and Node.js<br><br>🗄️ Experienced with PostgreSQL, MySQL, and Supabase<br><br>🚀 Always learning and exploring new technologies<br><br>Building things, solving problems, and growing every day.</h4>
+<h3 data-importer="text" align="left">💻 Interested in Full Stack Developer<br><br>⚙️ Working with JavaScript, React, Next.js, and Node.js<br><br>🗄️ Experienced with PostgreSQL, MySQL, and Supabase<br><br>🚀 Always learning and exploring new technologies<br><br>Building things, solving problems, and growing every day.</h3>
 
 ###
 
