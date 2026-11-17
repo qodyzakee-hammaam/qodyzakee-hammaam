@@ -14,11 +14,11 @@
 
 ###
 
-<h3 data-importer="text" align="center">I'm a Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.</h3>
+<h3 data-importer="text" align="center">I'm a Web Development Engineer passionate about building modern, scalable, and user-friendly web applications.</h3>
 
 ###
 
-<h3 data-importer="text" align="left">💻 Interested in Full Stack Developer<br><br>⚙️ Working with JavaScript, React, Next.js, and Node.js<br><br>🗄️ Experienced with PostgreSQL, MySQL, and Supabase<br><br>🚀 Always learning and exploring new technologies<br><br>Building things, solving problems, and growing every day.</h3>
+<h4 data-importer="text" align="left">💻 Interested in Full Stack Web Development<br><br>⚙️ Working with JavaScript, React, Next.js, and Node.js<br><br>🗄️ Experienced with PostgreSQL, MySQL, and Supabase<br><br>🚀 Always learning and exploring new technologies<br><br>Building things, solving problems, and growing every day.</h4>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Console Game</h2>
+<h2 data-importer="text" align="center">Console</h2>
 
 ###
 
@@ -89,6 +89,38 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
 
 ###
