@@ -1,12 +1,20 @@
-<img data-importer="image" align="left" height="160" src="https://i.pinimg.com/236x/5a/2b/6a/5a2b6ae2bf7c768a5bc44b1a8e08be33.jpg"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://i.pinimg.com/236x/5a/2b/6a/5a2b6ae2bf7c768a5bc44b1a8e08be33.jpg"  />
+</div>
 
 ###
 
-<h1 data-importer="text" align="left" style="text-decoration: none; border-bottom: none;">Hi, 👋 I'm Qody</h1>
+<br clear="both">
+
+<h1 data-importer="text" align="center">Hi, 👋 I'm Qody</h1>
 
 ###
 
-<h3 data-importer="text" align="left">I'm a Web Development Engineer passionate about building modern, scalable, and user-friendly web applications.</h3>
+<h3 data-importer="text" align="center">I'm a Web Development Engineer passionate about building modern, scalable, and user-friendly web applications.</h3>
+
+###
+
+<h4 data-importer="text" align="left">💻 Interested in Full Stack Web Development<br><br>⚙️ Working with JavaScript, React, Next.js, and Node.js<br><br>🗄️ Experienced with PostgreSQL, MySQL, and Supabase<br><br>🚀 Always learning and exploring new technologies<br><br>Building things, solving problems, and growing every day.</h4>
 
 ###
 
@@ -62,9 +70,9 @@
 ###
 
 <div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="95" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="95" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="95" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
 </div>
 
 ###
@@ -87,6 +95,12 @@
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=qodyzakee-hammaam.qodyzakee-hammaam&left_color=deepskyblue&right_color=skyblue"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=134&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
 ###
