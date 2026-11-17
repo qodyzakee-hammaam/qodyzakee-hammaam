@@ -4,7 +4,6 @@
 
 <h1 data-importer="text" align="left">Hi, 👋 I'm Qody</h1>
 
-###
 
 <h3 data-importer="text" align="left">I'm a Web Development Engineer passionate about building modern, scalable, and user-friendly web applications.</h3>
 
