@@ -1,63 +1,63 @@
-<img data-importer="image" align="left" height="130" src="https://i.pinimg.com/236x/5a/2b/6a/5a2b6ae2bf7c768a5bc44b1a8e08be33.jpg"  />
+<img data-importer="image" align="left" height="160" src="https://i.pinimg.com/236x/5a/2b/6a/5a2b6ae2bf7c768a5bc44b1a8e08be33.jpg"  />
 
 ###
 
-<h3 data-importer="text" align="center">Hi, 👋 I'm Qody</h3>
+<h1 data-importer="text" align="left">Hi, 👋 I'm Qody</h1>
 
 ###
 
-<h4 data-importer="text" align="left">I'm a Web Development Engineer passionate about building modern, scalable, and user-friendly web applications.</h4>
+<h3 data-importer="text" align="left">I'm a Web Development Engineer passionate about building modern, scalable, and user-friendly web applications.</h3>
 
 ###
 
-<h3 data-importer="text" align="center">💻 Tech Stack</h3>
+<h2 data-importer="text" align="center">💻 Tech Stack</h2>
 
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="25" alt="npm logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="25" alt="eslint logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="25" alt="prisma logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="25" alt="supabase logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="25" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="25" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="25" alt="redis logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge" height="25" alt="sentry logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="25" alt="github logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" alt="eslint logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" alt="prisma logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="30" alt="supabase logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white&style=for-the-badge" height="30" alt="sentry logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
 </div>
 
 ###
 
-<h3 data-importer="text" align="center">📊 GitHub Stats</h3>
+<h2 data-importer="text" align="center">📊 GitHub Stats</h2>
 
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="59" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/activity-graph-output/activity-graph.svg?theme=tokyo-night&hide_border=true&area=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h3 data-importer="text" align="center">✉️ Social Media</h3>
+<h2 data-importer="text" align="center">✉️ Social Media</h2>
 
 ###
 
@@ -69,7 +69,7 @@
 
 ###
 
-<h3 data-importer="text" align="center">Console</h3>
+<h2 data-importer="text" align="center">Console</h2>
 
 ###
 
