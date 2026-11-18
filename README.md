@@ -10,11 +10,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hi, 👋 I'm Qody</h1>
-
-###
-
-<h3 data-importer="text" align="center">I'm a Web Development Engineer passionate about building modern, scalable, and user-friendly web applications.</h3>
+<h1 data-importer="text">I'm a Web Development Engineer passionate about building modern, scalable, and user-friendly web applications.</h1>
 
 ###
 
