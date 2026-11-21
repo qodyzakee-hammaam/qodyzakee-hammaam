@@ -87,17 +87,18 @@
 
 ###
 
-<picture data-importer="pacman">
+<div align="center">
+  <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/snake-output/snake.svg" alt="Snake animation" />
+  <img data-importer="snake" height="300" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/snake-output/snake.svg" alt="Snake animation" >
+</div>
 
 ###
 
-<div data-importer="border">
+<div data-importer="border" align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=134&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
