@@ -10,6 +10,12 @@
 
 ###
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=qodyzakee-hammaam.qodyzakee-hammaam&left_color=deepskyblue&right_color=skyblue"  />
+</div>
+
+###
+
 <h1 data-importer="text">I'm a Web Development Engineer passionate about building modern, scalable, and user-friendly web applications.</h1>
 
 ###
@@ -88,12 +94,6 @@
 </picture>
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/qodyzakee-hammaam/qodyzakee-hammaam/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=qodyzakee-hammaam.qodyzakee-hammaam&left_color=deepskyblue&right_color=skyblue"  />
-</div>
 
 ###
 
